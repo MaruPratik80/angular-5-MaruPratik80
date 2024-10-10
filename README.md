@@ -1,5 +1,13 @@
 # AngularTest5
 
+Test 5
+
+- Create service that contain data arr = [1,2,3,4,5] and method that return observable that emit data
+- Perform below operation using observable and and console the result
+  - Using map operator for double emitted value
+  - Using filter operator for even value
+  - Using reduce operator for sum of all value
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
 ## Development server
